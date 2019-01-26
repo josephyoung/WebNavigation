@@ -4,7 +4,7 @@
     var keys = startHash.keys;
     var hash = startHash.hash;
 
-    //2. 生成键盘
+    //2. 生成键盘 
     generaetKeyboard(keys, hash);
 
     //3. 监听用户按键盘
